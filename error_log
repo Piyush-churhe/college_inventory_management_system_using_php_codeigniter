@@ -1,0 +1,6 @@
+[10-May-2017 16:02:55 UTC] PHP Fatal error:  Call to a member function getRootAdmin() on null in /home/hikariaj/public_html/travel/application/controllers/Login.php on line 79
+[10-May-2017 16:16:25 UTC] PHP Fatal error:  Call to a member function getRootAdmin() on null in /home/hikariaj/public_html/travel/application/controllers/Login.php on line 79
+[10-May-2017 17:08:33 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/hikariaj/public_html/travel/application/controllers/Root_Admin.php on line 25
+[10-May-2017 17:10:35 UTC] PHP Fatal error:  Class '_Controller' not found in /home/hikariaj/public_html/travel/application/controllers/Root_Admin.php on line 4
+[10-May-2017 17:44:46 UTC] PHP Fatal error:  Call to a member function getRootAdmin() on null in /home/hikariaj/public_html/travel/application/controllers/Login.php on line 78
+[10-May-2017 17:45:17 UTC] PHP Fatal error:  Call to a member function getRootAdmin() on null in /home/hikariaj/public_html/travel/application/controllers/Login.php on line 78
